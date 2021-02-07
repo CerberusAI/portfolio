@@ -7,7 +7,7 @@ Homework: https://www.tutorialspoint.com/aws_lambda/aws_lambda_using_lambda_func
 
 
 
-<ins>Tools</ins>
+# <ins>Tools</ins>
 
 Online REST Client: https://extendsclass.com/rest-client-online.html
 
@@ -18,7 +18,7 @@ Domain name checker: https://namechk.com/
 
 
 
-<ins>AWS Tuts</ins>
+# <ins>AWS Tuts</ins>
 
 S3 Web Hosting: https://docs.aws.amazon.com/AmazonS3/latest/dev/EnableWebsiteHosting.html
 
