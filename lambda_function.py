@@ -1,16 +1,16 @@
 import json
 import boto3    # AWS services
 
-# Homework: develop function to send email and / or text using SNS
-def send_to_SNS(Event):
+# Homework: develop function to send email using SES
+def send_to_SES(Event):
     # Logs to CloudWatch
     print(json.dumps(Event))
 
 # Entry point function
 def lambda_handler(event, context):
 
-    # Process event & send to SNS
-    send_to_SNS(event)
+    # Process event & send to SES
+    send_to_SES(event)
     
     # Response JSON sent back client
     response = {
