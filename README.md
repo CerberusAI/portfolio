@@ -18,6 +18,8 @@ Domain Name Checker: https://namechk.com/
 
 S3 Web Hosting: https://docs.aws.amazon.com/AmazonS3/latest/dev/EnableWebsiteHosting.html
 
+Register Domain in Route 53: https://aws.amazon.com/getting-started/hands-on/get-a-domain/
+
 Route 53 Domain Alias to S3: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/RoutingToS3Bucket.html
 
 # YouTube Training
