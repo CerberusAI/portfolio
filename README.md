@@ -24,6 +24,6 @@ Route 53 Domain Alias to S3: https://docs.aws.amazon.com/Route53/latest/Develope
 
 Full Stack Web Development Overview: https://www.youtube.com/watch?v=VfGW0Qiy2I0
 
-HTML & CSS Crashcourse: https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+HTML & CSS Crash-course: https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 
-More Crashcourse Training: https://www.youtube.com/c/TraversyMedia/playlists
+More Crash-course Training: https://www.youtube.com/c/TraversyMedia/playlists
