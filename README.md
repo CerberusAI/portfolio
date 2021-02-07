@@ -2,7 +2,7 @@
 
 Slides: https://www.beautiful.ai/player/-MSwVdJpvBjj6JDzPEfF
 
-Homework: https://www.tutorialspoint.com/aws_lambda/aws_lambda_using_lambda_function_with_amazon_sns.htm
+Homework: https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-using-sdk-python.html
 
 # Tools
 
