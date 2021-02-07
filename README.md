@@ -5,6 +5,8 @@ Slides: https://www.beautiful.ai/player/-MSwVdJpvBjj6JDzPEfF
 Homework: https://www.tutorialspoint.com/aws_lambda/aws_lambda_using_lambda_function_with_amazon_sns.htm
 
 
+
+
 <ins>Tools</ins>
 
 Online REST Client: https://extendsclass.com/rest-client-online.html
@@ -12,6 +14,8 @@ Online REST Client: https://extendsclass.com/rest-client-online.html
 Online Web Editor: https://codepen.io/pen/
 
 Domain name checker: https://namechk.com/
+
+
 
 
 <ins>AWS Tuts</ins>
