@@ -8,7 +8,7 @@ def lambda_handler(event, context):
     
     # Response JSON sent back client
     response = {
-        'statusCode': 202,
+        'statusCode': 200,
         'headers': {
             'Access-Control-Allow-Headers': 'Content-Type',
             'Access-Control-Allow-Origin': '*',
